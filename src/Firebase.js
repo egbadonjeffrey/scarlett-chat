@@ -3,14 +3,14 @@ import "firebase/compat/firestore";
 import "firebase/compat/auth";
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+// Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAaSuVgVq4hbzLqFKzr3OH_rdBWsFJRlIw",
-  authDomain: "whats-app-clone-bdce4.firebaseapp.com",
-  projectId: "whats-app-clone-bdce4",
-  storageBucket: "whats-app-clone-bdce4.appspot.com",
-  messagingSenderId: "236547284773",
-  appId: "1:236547284773:web:e04e861be748e536cec4cc",
-  measurementId: "G-N85MNY64EY",
+  apiKey: "AIzaSyBFFB0baZlNqUGUC245qCHkqfzJJhjZuos",
+  authDomain: "scarlett-chat-61fb7.firebaseapp.com",
+  projectId: "scarlett-chat-61fb7",
+  storageBucket: "scarlett-chat-61fb7.appspot.com",
+  messagingSenderId: "1034078401859",
+  appId: "1:1034078401859:web:a92b313b07da39439babf6",
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
